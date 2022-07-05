@@ -1,0 +1,36 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 40px;
+}
+.skip{
+    color: blueviolet;
+}
+h1{
+    /* color: rgb(58, 53, 53); */
+    font-size: 35px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(142, 22, 222),rgb(130, 8, 130));
+    color: white;
+    padding: 10px 15px;
+    border-radius: 100px;
+}
+section{
+    display: flex;
+}
+.first-section1{
+    color: rgb(58, 53, 53);
+    padding-left: 15%;
+    /* padding-right: 5%; */
+    width: 100%;
+    margin-top: 10%;
+}
+.first-section2{
+    margin-top: 0;
+    width: 10%;
+padding-right: 45%;
+
+
+  
+}
